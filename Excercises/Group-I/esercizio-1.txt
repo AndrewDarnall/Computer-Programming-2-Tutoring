@@ -1,0 +1,3 @@
+Scrivere un programma in C++ che, tramite l'apposito utilizzo di una classe, possa leggere delle informazioni da
+standard input, ovvero nome, cognome, codice fiscale e anno di corso di qualsiasi studente e salvi queste informazioni
+in un array di oggetti di tipo Studente

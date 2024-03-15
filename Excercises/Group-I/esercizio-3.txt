@@ -1,0 +1,2 @@
+Scrivere un programma in C++ che, preso in input il medesimo file 'esercizio-3.txt', sia in grado di leggerlo e stamparlo
+parola per parola (dunque ogni parola deve essere separata da un carattere di newline)

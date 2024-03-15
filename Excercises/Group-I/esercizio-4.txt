@@ -1,0 +1,2 @@
+Scrivere un programma in C++ che una volta preso in input il file di testo 'esercizio-4.txt', sia in grado di Scrivere
+su un nuovo file di testo 'output.txt' in maniera pseudo-randomica una parola alla volta presa dal file citato sopra.

@@ -1,0 +1,5 @@
+Scrivere un programma in C++ che, mediante l'utilizzo dei meccanismi di ereditarieta' e polimorfismo, tipici della OOP
+implementi una gerarchia tra una classe di tipo Shape come classe madre e 3 classi figlie, nonche' Rectangle, Circle e Square.
+La classe Shape deve avere il metodo getArea() che deve essere opportunamente implementato nelle sotto classi.
+
+(Scrivere un opportuno main che mostri il funzionamento della gerarchia delle classi)

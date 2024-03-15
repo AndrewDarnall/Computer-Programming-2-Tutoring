@@ -1,0 +1,10 @@
+Si fornisca un programma che dati in input tre cognomi di lunghezza variabile ed un valore N, sia in grado di individuare tra questi quelli che sono tra loro simili relativamente al valore K. Ovvero tutti quei cognomi che hanno un prefisso di lunghezza N in comune, ma non un prefisso di lunghezza N+1.
+
+Esempio Input:
+
+input.txt:
+2 mazzei marfeo marchica
+3 musacchia greca musmeci
+4 nicosia nicolosi nicotra
+
+~~ In allegato nella cartella si trova un input di esempio
